@@ -1,2 +1,2 @@
 # cv-profile
-personal website
+personal cv website 
